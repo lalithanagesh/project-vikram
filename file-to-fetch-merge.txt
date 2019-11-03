@@ -1,0 +1,2 @@
+This is new file created directly in github 
+this file doenloaded in local repo by fetch and merge
